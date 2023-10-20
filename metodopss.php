@@ -164,7 +164,7 @@
             Hobbie: ". $p14->hobbie. "<br/><br/><hr><br/>";
 
         $p15 = new Pessoa();
-        $p15->nome       = "Gabrielli";
+        $p15->nome       = "Gabrielli Freire";
         $p15->altura     ="";
         $p15->nascimento ="";
         $p15->hobbie     ="";
@@ -385,6 +385,7 @@
 
     echo "Abaixo um exemplo pratico de uso de métodos: <br/><br/>";
     $p1->MostrarPessoa();
+    
     ?>
 </body>
 </html>
